@@ -1,0 +1,9 @@
+Ethereum is a decentralized, open-source blockchain platform designed to enable peer-to-peer transactions and programmable applications. Like Bitcoin, it uses a distributed ledger maintained across a network of computers, but Ethereum extends the concept by embedding a built-in programming language that developers use to create smart contracts.
+
+Smart contracts are self-executing pieces of code that run exactly as written once the agreed-upon conditions are met. Because they live on the blockchain, they inherit the network’s security, transparency, and resistance to tampering. This makes Ethereum a foundational layer for decentralized applications (often called dapps) that can handle anything from digital asset management to decentralized finance protocols, gaming, and identity systems.
+
+Ether (ETH) is the native cryptocurrency of the Ethereum network. It incentivizes participants to validate transactions, secure the network, and provide computing resources. Users spend ETH to pay transaction fees—often referred to as gas—to execute smart contracts or move assets on the platform.
+
+Since its launch in 2015, Ethereum has undergone multiple upgrades to improve scalability, security, and sustainability. A major milestone was the transition from Proof of Work (PoW) to Proof of Stake (PoS) consensus during “The Merge” in 2022, which drastically reduced the network’s energy consumption. Ongoing research and development, such as sharding and rollups, aim to scale Ethereum to support a global user base while maintaining decentralization.
+
+In summary, Ethereum provides a flexible and secure infrastructure for building decentralized applications, enabling a broad range of use cases that extend far beyond simple digital currency transfers.
